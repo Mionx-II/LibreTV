@@ -114,6 +114,43 @@ const API_SITES = {
         api: 'https://cj.lziapi.com/api.php/provide/vod/',
         name: '量子资源站'
     },
+        },
+    hongniu: {
+        api: 'http://hongniuzy2.com/api.php/provide/vod/from/hnm3u8',
+        name: '紅牛資源'
+    },
+    shandian: {
+        api: 'http://sdzyapi.com/api.php/provide/vod/from/sdm3u8',
+        name: '閃電資源'
+    },
+    jy: {
+        api: 'http://jyzyapi.com/provide/vod/from/jinyingm3u8',
+        name: '金鹰资源'
+    },
+    guangsu: {
+        api: 'http://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8',
+        name: '光速资源'
+    },
+    osk: {
+        api: 'http://aosikazy.com/api.php/provide/vod',
+        name: '奥斯卡资源网'
+    },    
+    UKU: {
+        api: 'http://api.ukuapi.com/api.php/provide/vod',
+        name: 'U酷资源'
+    },    
+    yinghua: {
+        api: 'http://m3u8.apiyhzy.com/api.php/provide/vod',
+        name: '樱花资源网'
+    },   
+    baidu: {
+        api: 'http://api.apibdzy.com/api.php/provide/vod',
+        name: '百度资源'
+    }, 
+    wangwang: {
+        api: 'https://wwzy.tv/api.php/provide/vod',
+        name: '旺旺短剧'
+    },     
     testSource: {
         api: 'https://www.example.com/api.php/provide/vod',
         name: '空内容测试源',
