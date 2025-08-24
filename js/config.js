@@ -122,14 +122,6 @@ const API_SITES = {
         api: 'http://sdzyapi.com/api.php/provide/vod/from/sdm3u8',
         name: '閃電資源'
     },
-    jy: {
-        api: 'http://jyzyapi.com/provide/vod/from/jinyingm3u8',
-        name: '金鹰资源'
-    },
-    guangsu: {
-        api: 'http://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8',
-        name: '光速资源'
-    },
     osk: {
         api: 'http://aosikazy.com/api.php/provide/vod',
         name: '奥斯卡资源网'
