@@ -114,7 +114,6 @@ const API_SITES = {
         api: 'https://cj.lziapi.com/api.php/provide/vod/',
         name: '量子资源站'
     },
-        },
     hongniu: {
         api: 'http://hongniuzy2.com/api.php/provide/vod/from/hnm3u8',
         name: '紅牛資源'
