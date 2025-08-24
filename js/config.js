@@ -137,10 +137,6 @@ const API_SITES = {
     baidu: {
         api: 'http://api.apibdzy.com/api.php/provide/vod',
         name: '百度资源'
-    }, 
-    wangwang: {
-        api: 'https://wwzy.tv/api.php/provide/vod',
-        name: '旺旺短剧'
     },     
     testSource: {
         api: 'https://www.example.com/api.php/provide/vod',
